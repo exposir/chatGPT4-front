@@ -598,9 +598,9 @@ ECMAScript 是 JavaScript 语言的标准化规范。以下是各个版本的主
 
 ## 🤔日常难点
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd5ba736-040b-436a-bb36-06f2dfa7ed4a/Untitled.png)
+![Untitled](chatGPT4%20%E6%95%99%E4%BD%A0%E9%9D%A2%E8%AF%95%2090357a43a98c4579a3eb4c5e8082a010/Untitled.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/309124ff-c2bb-4449-9e33-c212714d6ad0/Untitled.png)
+![Untitled](chatGPT4%20%E6%95%99%E4%BD%A0%E9%9D%A2%E8%AF%95%2090357a43a98c4579a3eb4c5e8082a010/Untitled%201.png)
 
 ## JS 范式
 
